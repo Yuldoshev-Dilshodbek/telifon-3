@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 40vh;
+    width: 100%;
+    background-color: #919191;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60vh;
+    width: 100%;
+    background-color: #A8A8A8;
+}
+
+.main__box {
+    height: 280px;
+    width: 70px;
+    background-color: #c7c3c3;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.main__box1 {
+    height: 280px;
+    width: 200px;
+    background-color: #c7c3c3;
+    border-radius: 20px;
+}
+
+.main__box2 {
+    height: 280px;
+    width: 70px;
+    background-color: #c7c3c3;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.main__card2 {
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(202, 209, 215);
+    border-radius: 0px 0px 20px 0;
+    margin-top: 16%;
+}
+
+.main__solid1 {
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(202, 209, 215);
+    border-radius: 0px 0px 20px 20px;
+    margin-top: 12%;
+}
+
+.main__div2 {
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(202, 209, 215);
+    border-radius: 0px 0px 0px 20px;
+    margin-top: 12%;
+}
+
+.main__card {
+    height: 16px;
+    width: 20px;
+    background-color: #525252;
+    border-radius: 0px 7px 7px 0px;
+    margin-top: 30px;
+}
+
+.main__img {
+    margin-top: 20px;
+}
+
+.main__img1 {
+    margin-top: 10px;
+}
+
+.main__solid {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #525252;
+    margin-top: 29%;
+    margin-left: 25%;
+}
+
+.main__photo {
+    margin-left: 8%;
+    margin-top: 10%;
+}
+
+.main__photo1 {
+    margin-top: 5%;
+    margin-left: 14%;
+}
+
+.main__div {
+    height: 16px;
+    width: 20px;
+    background-color: #525252;
+    border-radius: 7px 0px 0px 7px;
+    margin-top: 30px;
+    margin-left: 70%;
+}
+
+.main__png {
+    margin-left: 96%;
+    margin-top: 5%;
+}
+
+.main__pngp {
+    margin-left: 63%;
+    margin-top: 27.5%;
+}
+
+.main__jpg {
+    margin-left: 80%;
+    margin-top: 15%;
+}
+
+.main__rasm {
+    width: 70%;
+    position: absolute;
+    margin-top: -141%;
+    margin-left: 15%;
+    /* transform: translate(21%, -151%); */
+}
